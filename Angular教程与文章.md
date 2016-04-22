@@ -9,9 +9,8 @@ API:
 1. AngularJs编程规范  
 [https://github.com/johnpapa/angular-styleguide ](https://github.com/johnpapa/angular-styleguide )  
 1. AngularJs技术中文教程  
-[http://blog.csdn.net/Evankaka/article/category/6170743](http://blog.csdn.net/Evankaka/article/category/6170743)
+[http://blog.csdn.net/Evankaka/article/category/6170743](http://blog.csdn.net/Evankaka/article/category/6170743)  
 ## 技术文章 ##
-
 ### 优化与性能相关 ###
 1. [对AngularJS进行性能调优的7个建议](http://www.csdn.net/article/2013-09-18/2816972-AngularJS-performance-tuning-for-long-list)   
 ### controller相关 ###
