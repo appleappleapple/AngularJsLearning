@@ -10,13 +10,13 @@ API:
 [https://github.com/johnpapa/angular-styleguide ](https://github.com/johnpapa/angular-styleguide )  
 1. AngularJs技术中文教程  
 [http://blog.csdn.net/Evankaka/article/category/6170743](http://blog.csdn.net/Evankaka/article/category/6170743)  
-## 技术文章 ##
-### 优化与性能相关 ###
+## 技术文章 ##  
+### 优化与性能相关 ###  
 1. [对AngularJS进行性能调优的7个建议](http://www.csdn.net/article/2013-09-18/2816972-AngularJS-performance-tuning-for-long-list)   
-### controller相关 ###
+### controller相关 ###  
 2. [AngularJS中如何对Controller与Service进行分层设计与编码](http://www.jianshu.com/p/1e1aaf0fd30a)  
 3. [AngularJS动态加载Controller](http://www.w3cboy.com/post/2016/03/angularjs-dynamic-load-controller/)
-### service相关 ###
+### service相关 ###  
 3. [理解AngularJS中的Service类型](http://get.ftqq.com/204.get)  
 4. [AngularJS入门之Services](http://www.cnblogs.com/wushangjue/p/4533953.html?utm_source=tuicool&utm_medium=referral)  
 5. [AngularJS 之 Factory vs Service vs Provider](http://www.oschina.net/translate/angularjs-factory-vs-service-vs-provider)  
