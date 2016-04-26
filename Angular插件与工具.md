@@ -53,5 +53,7 @@ GitHub:[https://github.com/isteven/angular-multi-select](https://github.com/iste
 效果展示：[http://isteven.github.io/angular-multi-select/#/main](http://isteven.github.io/angular-multi-select/#/main)
 1. ui-select  
 GitHub:[https://github.com/angular-ui/ui-select](https://github.com/angular-ui/ui-select)  
-效果展示：[http://angular-ui.github.io/ui-select/#examples](http://angular-ui.github.io/ui-select/#examples)
+效果展示：[http://angular-ui.github.io/ui-select/#examples](http://angular-ui.github.io/ui-select/#examples) 
+1. chose   
+[http://leocaseiro.github.io/angular-chosen/](http://leocaseiro.github.io/angular-chosen/)
   
