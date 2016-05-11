@@ -55,5 +55,14 @@ GitHub:[https://github.com/isteven/angular-multi-select](https://github.com/iste
 GitHub:[https://github.com/angular-ui/ui-select](https://github.com/angular-ui/ui-select)  
 效果展示：[http://angular-ui.github.io/ui-select/#examples](http://angular-ui.github.io/ui-select/#examples) 
 1. chose   
-[http://leocaseiro.github.io/angular-chosen/](http://leocaseiro.github.io/angular-chosen/)
+[http://leocaseiro.github.io/angular-chosen/](http://leocaseiro.github.io/angular-chosen/)    
+1. [Angular的Table 组件](http://zhenghaoju700.blog.163.com/blog/static/135859518201521343938228/)   
+[http://angularjs4u.com/tables/top-10-angularjs-table-demos/](http://angularjs4u.com/tables/top-10-angularjs-table-demos/)
+1. ng-table   
+效果：[http://ng-table.com/#/](http://ng-table.com/#/)   
+1. ng-grid  
+效果：[http://angular-ui.github.io/ui-grid/](http://angular-ui.github.io/ui-grid/)  
+[http://ui-grid.info/docs/#/tutorial/102_sorting](http://ui-grid.info/docs/#/tutorial/102_sorting)
+1. ui-grid
+效果：[http://ui-grid.info/](http://ui-grid.info/)
   
